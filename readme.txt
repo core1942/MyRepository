@@ -1,2 +1,2 @@
-Git is a  dvbutedersion control system.
+Git is a GPL  dvbutedersion control system.
 Git is free software.
