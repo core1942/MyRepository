@@ -4,3 +4,4 @@ I lof u
 嘿嘿嘿
 哈哈哈
 test no-ff
+test --ff
